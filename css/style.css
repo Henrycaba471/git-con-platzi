@@ -16,3 +16,7 @@ main{
     text-align: center;
     box-shadow: 7px 5px 30px 3px;
 }
+h1{
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

@@ -20,3 +20,7 @@ h1{
     text-transform: uppercase;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+div img{
+    border-radius: 15px;
+}

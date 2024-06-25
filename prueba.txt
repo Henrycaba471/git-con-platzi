@@ -3,4 +3,4 @@ actualizando archivo
 
 otro cambio
 
-continuamos: 5. Flujo de trabajo profesionales video 1
+continuamos: 6. Multiples entornos de trabajo en Git
